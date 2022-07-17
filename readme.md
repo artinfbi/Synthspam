@@ -25,5 +25,5 @@ Effective perisan sms bomber tool
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/gallery/k15g1Ly)
+![App Screenshot](https://i.imgur.com/6viWVI9.png)
 
