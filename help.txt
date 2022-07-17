@@ -1,0 +1,6 @@
+
+1.sudo apt-get install tor
+
+2.tor HTTPTunnelPort 8000
+
+3.run and ENJOY
