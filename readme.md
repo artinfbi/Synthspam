@@ -25,6 +25,8 @@ Effective perisan sms bomber tool
     python3 Synthspam.py
 ```
 
+## tip 
 
+use google cloud 
 
 
