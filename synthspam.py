@@ -28,7 +28,7 @@ try:
 except:
     print(Colorate.Horizontal(Colors.red_to_yellow,"\n[-] Error connecting to proxy please use tor HTTPTunnelPort 8000",1))
     exit()
-phone = input(Colorate.Horizontal(Colors.yellow_to_red,"\nEnter your phone number: ",1))
+phone = input(Colorate.Horizontal(Colors.yellow_to_red,"\nEnter your phone number(+98...): ",1))
 
 def divar(phone):
     
