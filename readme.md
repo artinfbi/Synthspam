@@ -1,4 +1,4 @@
-# Synthspam
+# Synthspam Sms Bomber
 Effective perisan sms bomber tool
 
 ## Screenshots
