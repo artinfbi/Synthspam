@@ -4,7 +4,7 @@ Effective perisan sms bomber tool
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/6viWVI9.png)
-![App Screenshot](https://i.imgur.com/brrPDS9.mp4)
+
 
 ## Installation
 
