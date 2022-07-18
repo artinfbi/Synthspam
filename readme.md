@@ -22,7 +22,7 @@ Effective perisan sms bomber tool
 ## run 
 ```bash
     tor HTTPTunnelPort 8000
-    python3 Synthspam.py
+    python3 synthspam.py
 ```
 
 ## tip 
