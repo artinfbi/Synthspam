@@ -26,6 +26,7 @@ Effective perisan sms bomber tool
     ________________________
     in new terminal paste this
     ________________________
+    cd Synthspam
     python3 synthspam.py
 ```
 
